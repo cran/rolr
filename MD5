@@ -1,0 +1,12 @@
+d332900f50c687437f71578b74ef0e6e *DESCRIPTION
+bd9b023fa0fdeafae7484d0683365ba0 *NAMESPACE
+2d47050a9a7ffd7f4bd0ce70d2d94565 *R/rolr-functions.R
+cdc8874ec029363fb908b8a9165c1305 *R/rolr.R
+e3c7aaea631c8ef4b39cc2ccb396fb13 *man/rhier.Rd
+55cc9e581caf58d9efc00580229f6da0 *man/rlr.Rd
+382184c7fc3970b3efcf3b4b71a6621b *man/rmolr.Rd
+d99ad7695dad0431043a5c364b640659 *man/rolr.Rd
+051ca505647ccaf2d3ce505acd4ba236 *man/rsolr12.Rd
+717083629bd8ea6df43ed8e7209c452b *man/simdata.Rd
+056bdb1d16894e43aaf6bc3fbad9b702 *tests/testthat.R
+f73699d238ca2049d3cc72e351f192c3 *tests/testthat/test-functions.R
